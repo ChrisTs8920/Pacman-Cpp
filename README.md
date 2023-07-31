@@ -22,3 +22,7 @@ main.exe requires map.txt and HiScore.dat files in same directory.
    - If the monsters 'G' and 'T' catch the player, the game is over.
 
 *Scores are kept in the HiScore.dat file.*
+
+## Screenshots
+
+![Screenshot1](https://github.com/ChrisTs8920/Pacman-Cpp/blob/main/screenshots/Screenshot_1.jpg?raw=true)
