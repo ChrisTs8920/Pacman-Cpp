@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a pacman style game made using C++ and PDcurses library. It includes the player 'P', and 2 monsters, Traal 'T' and Gnome 'G'. The goal of the player is to find the parchment while the monsters chase him. The algorithm that is used for the monsters to track the player is the BFS (Best-first Search) algorithm.
+This project is a pacman style game made using C++ and the PDcurses library. It includes the player 'P', and 2 monsters, Traal 'T' and Gnome 'G'. The goal of the player is to find the parchment while the monsters chase him. The monsters use the BFS (Breadth-First Search) algorithm to track the player's position.
 
 *This game was made during my C++ course in University.*
 
@@ -25,4 +25,20 @@ main.exe requires map.txt and HiScore.dat files in same directory.
 
 ## Screenshots
 
-![Screenshot1](https://github.com/ChrisTs8920/Pacman-Cpp/blob/main/screenshots/Screenshot_1.jpg?raw=true)
+### Game
+
+![Game](https://github.com/ChrisTs8920/Pacman-Cpp/blob/main/screenshots/Screenshot_1.jpg?raw=true)
+
+### Main Menu
+
+![Main Menu](https://github.com/ChrisTs8920/Pacman-Cpp/blob/main/screenshots/Screenshot_2.jpg?raw=true)
+
+### High Scores
+
+![High Scores](https://github.com/ChrisTs8920/Pacman-Cpp/blob/main/screenshots/Screenshot_3.jpg?raw=true)
+
+### Difficulty selection
+
+![Difficulty](https://github.com/ChrisTs8920/Pacman-Cpp/blob/main/screenshots/Screenshot_4.jpg?raw=true)
+
+
